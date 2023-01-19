@@ -162,3 +162,13 @@ section article img{
     padding-bottom: 28px;
     border-bottom: 1px solid #E0E0E0;
 }
+.new{
+    font-family: 'Heebo3', sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #21243D;
+    max-width: 594px;
+    margin-left: 18px;
+    margin-top: 16px;
+}
