@@ -82,6 +82,7 @@ header nal ul li:hover{
 footer{
     padding-top: 51px;
     padding-bottom: 54px;
+    margin-top: 53px;
 }
 footer ul{
     list-style: none;
@@ -162,5 +163,58 @@ section article img{
     padding-bottom: 28px;
     border-bottom: 1px solid #E0E0E0;
 }
-
-
+.featured_works .container{
+    max-width: 855px;
+}
+.blog_page{
+    padding-top: 106px;
+    padding-bottom: 55px;
+}
+.blog_page .container{
+    max-width: 855px;
+}
+.secondary_blog{
+    font-family: 'Heebo', sans-serif;
+    font-style: normal;
+    font-size: 30px;
+    line-height: 44px;
+    text-align: right;
+    text-decoration: none;
+    color: #000000;
+    margin-left: auto;
+    margin-right: 250px;
+    margin-top: 32px;
+}
+.data{
+    font-family: 'Heebo3', sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 29px;
+    color: #21243D;
+    margin-top: 16px;
+    margin-right: 40px;
+}
+.container_blog{
+    border: 1px solid #000000;
+    height: 21px;
+    position: absolute;
+    margin-left: 132px;
+    margin-top: 20px;
+}
+.secondary_text_blog{
+    max-width: 682px;
+    font-family: 'Heebo3', sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #21243D;
+    margin-top: 15px;
+}
+.main_text_blog{
+    font-family: 'Heebo1', sans-serif;
+    font-style: normal;
+    font-size: 44px;
+    line-height: 60px;
+    color: #21243D;
+    margin-bottom: 55px;
+}
