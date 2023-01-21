@@ -113,7 +113,6 @@ footer p{
     font-size: 22px;
     line-height: 60px;
     color: #21243D;
-    margin-left: 203px;
     font-weight: normal;
 }
 section article h2{
@@ -126,7 +125,6 @@ section article h2{
     margin-top: 20px;
 }
 section article img{
-    float:left;
     margin: 22px 0px 0px 0px;
 }
 .year{
@@ -178,12 +176,9 @@ section article img{
     font-style: normal;
     font-size: 30px;
     line-height: 44px;
-    text-align: right;
-    text-decoration: none;
     color: #000000;
-    margin-left: auto;
-    margin-right: 250px;
     margin-top: 32px;
+    margin-left: auto;
 }
 .data{
     font-family: 'Heebo3', sans-serif;
@@ -195,11 +190,11 @@ section article img{
     margin-right: 40px;
 }
 .container_blog{
-    border: 1px solid #000000;
+    border-right: 1px solid #000000;
     height: 21px;
     position: absolute;
     margin-left: 132px;
-    margin-top: 20px;
+    margin-top: 4px;
 }
 .secondary_text_blog{
     max-width: 682px;
