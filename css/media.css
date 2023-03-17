@@ -1,0 +1,199 @@
+@media only screen and (max-width: 1062px){
+    header{
+        margin-right: 20px;
+    }
+}
+@media only screen and (max-width: 1040px){
+    .map h2{
+        margin-left: 20px;
+    }
+}
+@media only screen and (max-width: 891px){
+    .main_banner article{
+        margin-left: 20px;
+    }
+    .main_banner img{
+        margin-right: 20px;
+    }
+    .recent_posts .view_all{
+        margin-right: 20px;
+        margin-left: 20px;
+    }
+    .recent_posts .making_design{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .making_design h3{
+        margin-right: 5px;
+    }
+    .featured_works .topic{
+        margin-left: 20px;
+    }
+    .featured_works article img{
+        margin-left: 20px;
+    }
+    .featured_works article p{
+        margin-right: 20px;
+    }
+}
+@media only screen and (max-width: 730px){
+    .main_text_blog{
+        margin-left: 20px;
+        font-size: 30px;
+    }
+    .secondary_blog{
+        margin-left: 20px;
+        font-size: 20px;
+    }
+    .data{
+        font-size: 14px;
+        margin-left: 20px;
+    }
+    .dashboard{
+        font-size: 13px;
+    }
+    .container_blog{
+        margin-left: 120px;
+    }
+    .secondary_text_blog{
+        margin-left: 20px;
+    }
+    .main_text{
+        font-size: 34px;
+        line-height: 55px;
+    }
+    .secondary_text{
+        max-width: 350px;
+    }
+    .btn_resume{
+        padding: 8px 15px;
+        font-size: 15px;
+    }
+    .topic{
+        font-size: 20px;
+    }
+    .making_design h3{
+        font-size: 20px;
+        line-height: 33px;
+    }
+    .data_design{
+        font-size: 15px;
+    }
+    .dashboard_design{
+        font-size: 15px;
+    }
+    .container_blog_design{
+        margin-left: 130px;
+    }
+    .making_design p{
+        font-size: 12px;
+        line-height: 20px;
+    }
+    section article h2{
+        font-size: 20px;
+    }
+    .year{
+        font-size: 14px;
+    }
+    .dashboard{
+        font-size: 16px;
+    }
+    .description{
+        font-size: 13px;
+        line-height: 20px;
+        max-width: 350px;
+    }
+}
+@media only screen and (max-width: 711px){
+    .works_page h2{
+        font-size: 25px;
+        margin-left: 20px;
+    }
+    .works_page article img{
+        margin-left: 20px;
+    }
+}
+@media only screen and (max-width: 657px){
+    .main_banner .container{
+        display: block;
+        justify-content: center;
+        max-width: 300px;
+    }
+    .main_text{
+        font-size: 25px;
+        line-height: 45px;
+        text-align: center;
+    }
+    .secondary_text{
+        max-width: 300px;
+        font-size: 13px;
+        line-height: 20px;
+        text-align: center;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+    .topic{
+        text-align: center;
+    }
+    .main_banner img{
+        margin-top: 30px;
+        margin-left: 30px;
+    }
+    .btn_resume{
+        margin-left: 60px;
+    }
+    .recent_posts .container{
+        max-width: 400px;
+    }
+    .recent_posts .make_des{
+        display: block;
+    }
+    .making_design{
+        margin-top: 20px;
+    }
+    .featured_works article{
+        display: block;
+        text-align: center;
+    }
+    .featured_works .container{
+        max-width: 295px;
+        margin: auto;
+    }
+}
+@media only screen and (max-width: 619px){
+    .secondary_text_blog {
+        font-size: 14px;
+        margin-right: 20px;
+    }
+}
+@media only screen and (max-width: 615px){
+    .works_page article{
+        display: block;
+        text-align: center;
+    }
+    .works_page .container{
+        max-width: 350px;
+    }
+    .works_topic{
+        text-align: center;
+    }
+}
+@media only screen and (max-width: 477px){
+    .map h2{
+        text-align: center;
+        margin-top: 30px;
+    }
+}
+@media only screen and (max-width: 344px){
+    .description{
+        font-size: 12px;
+    }
+}
+@media only screen and (max-width: 333px){
+    .data_design{
+        font-size: 13px;
+    }
+    .container_blog_design{
+        margin-left: 120px;
+    }
+}
